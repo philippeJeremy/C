@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690790887 source:/home/jeremy/Formation C/mastermind/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
