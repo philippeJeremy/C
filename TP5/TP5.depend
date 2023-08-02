@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690971067 source:/home/jeremy/Formation C/TP5/main.c
+	<stdio.h>
+	<stdlib.h>
+
